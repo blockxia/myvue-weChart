@@ -24,9 +24,9 @@ x<template>
   import {get} from '../../utils/request'
   import {setStorage, getStorage} from '../../utils/storage'
   // 开发者的appId和密钥，密钥动态生成
-  const appId = 'wx0db5ac6ea2aca4fe'
-  const appKey = '4a9ed63ce3ff7701485a2ccb27dd1ba1'
-  
+  const appId = 'wx56c797d533eb00d3'
+  const appKey = '135daf82ec9855ceca86f7106a5c74b4'
+
   export default {
     data() {
       return {
